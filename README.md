@@ -4,7 +4,7 @@
 
 To use Go mod inside of gopath
 ```
-GO111MODULES=one
+GO111MODULES=on
 ```
 
 To initialize Go mod
