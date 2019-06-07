@@ -4,7 +4,7 @@
 
 To use Go mod inside of gopath
 ```
-export GO111MODULES=on
+export GO111MODULE=on
 ```
 
 To initialize Go mod
